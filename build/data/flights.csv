@@ -1,0 +1,3 @@
+flight_id,origin,destination,departure,arrival,capacity,seats_left
+F001,Satna,Rewa,12: 12,11:11,3000,2998
+F002,Indore,Bhopal,12:10,11:18,40000,40000
