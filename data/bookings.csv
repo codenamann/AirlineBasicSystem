@@ -1,0 +1,5 @@
+booking_id,flight_id,passenger_id,seat_no,status
+B001,F001,P001,Seat-1,CANCELLED
+B002,F001,P001,Seat-1,CONFIRMED
+B003,F002,P001,Seat-1,CANCELLED
+B004,F001,P001,Seat-2,CONFIRMED
